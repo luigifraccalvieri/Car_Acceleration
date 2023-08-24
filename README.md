@@ -18,7 +18,7 @@ Installare le dipendenze:
 `pip install -r requirements.txt`
 
 # Obiettivo
-Il caso di studio in analisi è stato sviluppato tramite il linguaggio Python, esso ha come scopo l’effettuazione di operazioni di regressione sul tempo impiegato da un auto per accelerare da 0 a 100 km/h, per maggiori dettagli consultare la <a href="/docs/documentazione_car_acceleration.pdf">documentazione</a>.
+Il caso di studio in analisi è stato sviluppato tramite il linguaggio Python, esso ha come scopo l’effettuazione di operazioni di regressione sul tempo impiegato da un auto per accelerare da 0 a 100 km/h, per maggiori dettagli consultare la <a href="/docs/documentazione_Car_Acceleration.pdf">documentazione</a>.
 
 # Organizzazione repository
 * La directory `risultati` contiene i csv indicanti i risultati per tutte le combinazioni di iperparametri testati per ogni modello
